@@ -5,7 +5,15 @@
 .intro-font-size {
     font-size: 48px;
 }
+/*---------------------------------------
+ this CSS is for background and font color
+ --------------------------------------- */
 .btn-color {
-    background-color: #E76F51;
-    
+    background-color: #E76F51;  
+}
+.orange-color {
+    color: #E76F51;
+}
+.semiblue-color {
+    color: #23A6F0
 }
