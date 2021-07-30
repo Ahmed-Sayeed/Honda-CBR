@@ -17,3 +17,6 @@
 .semiblue-color {
     color: #23A6F0
 }
+.racing-bg-color {
+    background-image: linear-gradient(45deg, transparent, black);
+}
